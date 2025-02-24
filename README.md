@@ -11,9 +11,9 @@ Real-Time Data Fetching: Collects air quality data (PM2.5, PM10, NO2, CO, etc.) 
 
 ## 📦 Tech Stack
 
-Programming Language: Python
+**Programming Language:** Python
 
-Libraries:
+**Libraries:**
 
 Data Analysis: pandas, numpy
 
