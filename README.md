@@ -8,3 +8,13 @@ This project is a Real-Time Air Quality Prediction System that uses machine lear
 ## 🚀 Features
 
 Real-Time Data Fetching: Collects air quality data (PM2.5, PM10, NO2, CO, etc.) from APIs.
+
+## 📦 Tech Stack
+
+Programming Language: Python
+
+Libraries:
+
+Data Analysis: pandas, numpy
+
+Visualization: matplotlib, seaborn
