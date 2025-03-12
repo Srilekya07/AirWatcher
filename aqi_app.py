@@ -97,7 +97,7 @@ if uploaded_file:
         st.plotly_chart(fig)
     else:
         st.sidebar.warning("CSV file must contain an 'AQI' column.")
-
+st.sidebar.write("Made with 💚 for Clean Air Awareness")
 # Footer
 st.markdown("---")
 st.markdown("🌿 *Powered by AI | Developed with Streamlit*")
