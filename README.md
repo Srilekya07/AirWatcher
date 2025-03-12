@@ -27,18 +27,18 @@
 **API:** OpenWeatherMap Air Pollution API
 
 ## 📦 Project Structure
-'''
+```
 ├── aqi_app.py                  # Main Streamlit app for real-time AQI prediction
 ├── aqi_model.pkl               # Trained ML model
 ├── scaler.pkl                  # Scaler for input feature normalization
 ├── air_quality_data.csv         # Sample dataset for training/testing
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
-'''
+```
 ## 📊 How to Run the Project
 
 **1. Clone the repository** 
-'''
+```
 git clone https://github.com/yourusername/aqi-prediction.git
 cd aqi-prediction
  ```
