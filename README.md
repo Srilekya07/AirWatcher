@@ -1,6 +1,6 @@
 # 🌿 AirWatcher, A Real-Time Air Quality Prediction System
 ## 📋 Project Overview
-"This project develops an AI-powered model using machine learning techniques to predict Air Quality Index (AQI) based on environmental data fetched from the OpenWeatherMap API and visualizes pollutant levels and AQI categories interactively. It aims to provide accurate forecasts, helping in proactive pollution management and public health awareness."
+This project develops an AI-powered model using machine learning techniques to predict Air Quality Index (AQI) based on environmental data fetched from the OpenWeatherMap API and visualizes pollutant levels and AQI categories interactively. It aims to provide accurate forecasts, helping in proactive pollution management and public health awareness.
 
 ## ✨ Features
 
