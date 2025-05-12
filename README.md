@@ -36,6 +36,12 @@ This project develops an AI-powered model using machine learning techniques to p
 └── requirements.txt            # Python dependencies
 └── .gitignore                  # Git ignored files
 ```
+
+## ⚠️ Note
+
+- The machine learning model (aqi_model.pkl) is not included in this repository due to GitHub's file size limitations.
+- To use the app, you can train your own model or request the file separately.
+  
 ## 📊 How to Run the Project
 
 **1. Clone the repository** 
