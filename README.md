@@ -31,9 +31,10 @@ This project develops an AI-powered model using machine learning techniques to p
 ├── aqi_app.py                  # Main Streamlit app for real-time AQI prediction
 ├── aqi_model.pkl               # Trained ML model
 ├── scaler.pkl                  # Scaler for input feature normalization
-├── air_quality_data.csv         # Sample dataset for training/testing
+├── air_quality_data.csv        # Sample dataset for training/testing
 ├── README.md                   # Project documentation
 └── requirements.txt            # Python dependencies
+└── .gitignore                  # Git ignored files
 ```
 ## 📊 How to Run the Project
 
