@@ -29,11 +29,33 @@ This project develops an AI-powered model using machine learning techniques to p
 
 **API:** OpenWeatherMap Air Pollution API
 
-## 🖼️ App Preview
-![Prediction Example](Images/img2.png)
-![Prediction Example](Images/img3.png)
-![Prediction Example](Images/img4.png)
-![Prediction Example](Images/img5.png)
+## 📸 Application Screenshots
+
+### 🔹 Real-time Pollutant Concentrations
+![Pollutant Concentrations](Images/img2.png)
+This screen displays a bar chart of various pollutant concentrations (like PM2.5, NO2, CO, etc.) in the selected city using real-time air quality data fetched via API.
+
+---
+
+### 🔹 Predicted AQI with Location Map
+![Predicted AQI](Images/img3.png)
+After selecting a city and providing an API key, the application fetches data, maps the location, and shows the predicted AQI along with a health recommendation message.
+
+---
+
+### 🔹 Upload Historical Data
+![Upload Historical Data](Image/img4.png)
+Users can upload historical air quality data in CSV format. The application previews this data in a clean, tabular format showing pollutant levels by city and date.
+
+---
+
+### 🔹 Historical AQI Trends Visualization
+![Historical AQI Trends](Image/img5.png)
+This graph visualizes the AQI trend over time from the uploaded historical dataset, helping to analyze changes in air quality across days or years.
+
+---
+
+> 🧠 This tool helps users understand current air quality and analyze long-term trends using both real-time and historical data.
 
 ## 📦 Project Structure
 ```
