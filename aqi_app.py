@@ -4,11 +4,17 @@ import pandas as pd
 import joblib
 import plotly.express as px
 import folium
+import base64
 from streamlit_folium import folium_static
 
 # Load the trained model and scaler
 model = joblib.load('aqi_model.pkl')
 scaler = joblib.load('scaler.pkl')
+
+
+# Set page config
+st.set_page_config(page_title="AirWatcher", page_icon="🌍", layout="centered")
+
 
 # Function to predict AQI
 def predict_aqi(real_time_data):
