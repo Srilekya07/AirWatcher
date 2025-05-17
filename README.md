@@ -44,13 +44,13 @@ After selecting a city and providing an API key, the application fetches data, m
 ---
 
 ### 🔹 Upload Historical Data
-![Upload Historical Data](Image/img4.png)
+![Upload Historical Data](Images/img4.png)
 Users can upload historical air quality data in CSV format. The application previews this data in a clean, tabular format showing pollutant levels by city and date.
 
 ---
 
 ### 🔹 Historical AQI Trends Visualization
-![Historical AQI Trends](Image/img5.png)
+![Historical AQI Trends](Images/img5.png)
 This graph visualizes the AQI trend over time from the uploaded historical dataset, helping to analyze changes in air quality across days or years.
 
 ---
